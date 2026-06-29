@@ -23,6 +23,10 @@
 * Dell Precision 3630
  - Proxmox
  - Main home server
+ - Xeon E-2174G
+ - 32gb RAM DDR4
+ - 256gb NVME boot drive
+ - 2X 6TB WD Purple (Raid 1)
   - TrueNAS
   - HomeAssistantOS
   - TailScale
