@@ -8,13 +8,13 @@ Vitaj v mojom repozitári! Tento projekt slúži ako osobný archív, kde si upr
 
 Projekt pozostáva z troch hlavných súborov:
 
-### 1. 📉 `veci čo som dojebala.md`
+### 1. 📉 `zoznam vecí čo som dojebala`
 Zoznam životných a technických prešľapov, chýb a zlyhaní. Miesto, kde dokumentujem svoje najväčšie fuckupy, aby som sa z nich mohla poučiť (alebo sa na nich spätne zasmiať).
 
-### 2. 💻 `zoznam výpočtovej techniky.md`
+### 2. 💻 `zoznam výpočtovej techniky`
 Prehľad hardvéru, počítačov, komponentov a príslušenstva, ktoré aktuálne používam, vlastním alebo testujem.
 
-### 3. 📸 `zoznam fototechniky.md`
+### 3. 📸 `zoznam fototechniky`
 Zoznam mojej fotografickej výbavy – telá fotoaparátov, objektívy, svetlá a všetko, čo sa točí okolo fotenia.
 
 ---
